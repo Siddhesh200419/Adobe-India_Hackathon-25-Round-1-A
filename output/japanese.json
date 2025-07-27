@@ -1,0 +1,285 @@
+{
+  "title": "IBM",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "IBM",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "IBM Communications Server for Data Center Deployment  on AIX へようこそ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "第 1 章 IBM Communications Server for Data Center",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Deployment on AIX について",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "IBM Communications Server for Data Center Deployment on AIX の",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "第 2 章 ネットワークおよび IBM Communications",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Server for Data Center Deployment on AIX の計画",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "IPv4 アドレッシングと IPv6 アドレッシング",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "CS/AIX のライセンス許可とパッケージ化",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "CS/AIX インストールの準備",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "CS/AIX ライセンス・プログラムのインストール",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "WebSphere Application Server の構成",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "第 4 章 Linux での IBM Remote API Client のインスト",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Linux へのリモート API クライアントのインストール",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "GSKIT を使用した HTTPS セキュリティー証明書のセットアップ",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "Linux での Remote API Client のアンインストール",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "第 5 章 IBM Remote API Clients on Linux for System z",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Installing the Remote API Client on Linux for System z",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "GSKIT を使用した HTTPS セキュリティー証明書のセットアップ",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Remote API Client on Linux for System z のアンインストール",
+      "page": 63
+    },
+    {
+      "level": "H2",
+      "text": "第 6 章 AIX システムでの IBM Remote API Client のイ",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "AIX での Remote API Client のインストール",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "GSKIT を使用した HTTPS セキュリティー証明書のセットアップ",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "AIX での Remote API Client のアンインストール",
+      "page": 68
+    },
+    {
+      "level": "H2",
+      "text": "第 7 章 Remote API Client on Windows の計画とインス",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "セットアップ・プログラムを使用した Windows へのリモート API ク",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Remote API Client 構成用の拡張オプション",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "GSKIT を使用した HTTPS セキュリティー証明書のセットアップ",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "インストール後の Remote API Client ソフトウェアのカスタマイズ",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Remote API Client ソフトウェアのアンインストール",
+      "page": 78
+    },
+    {
+      "level": "H2",
+      "text": "第 8 章 CS/AIX の構成および使用",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "CS/AIX 構成の計画",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Motif 管理プログラムの使用",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Configuring Client/Server functions",
+      "page": 86
+    },
+    {
+      "level": "H3",
+      "text": "Configuring the node",
+      "page": 86
+    },
+    {
+      "level": "H3",
+      "text": "タイプ 0 から 3 LU の構成",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "APPC 通信の構成",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "CPI 通信のための構成",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "LUA の構成",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "SNA ゲートウェイの構成",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "DLUR の構成",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "TN サーバーの構成",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "TN リダイレクターの構成",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "CS/AIX を使用不可にする",
+      "page": 109
+    },
+    {
+      "level": "H2",
+      "text": "第 9 章 CS/AIX と SNA の情報リソース",
+      "page": 111
+    },
+    {
+      "level": "H3",
+      "text": "SNA ライブラリー",
+      "page": 111
+    },
+    {
+      "level": "H2",
+      "text": "付録 A IBM へのご意見の送付方法",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "E メール・フィードバック・テンプレート",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "CS/AIX 関連資料",
+      "page": 119
+    },
+    {
+      "level": "H3",
+      "text": "IBM Redbooks",
+      "page": 120
+    },
+    {
+      "level": "H3",
+      "text": "AIX オペレーティング・システム関連資料",
+      "page": 120
+    },
+    {
+      "level": "H3",
+      "text": "z/OS Communications Server 関連資料",
+      "page": 121
+    },
+    {
+      "level": "H3",
+      "text": "TCP/IP 関連資料",
+      "page": 121
+    },
+    {
+      "level": "H3",
+      "text": "X.25 関連資料",
+      "page": 121
+    },
+    {
+      "level": "H3",
+      "text": "APPC 関連資料",
+      "page": 121
+    },
+    {
+      "level": "H3",
+      "text": "IBM®",
+      "page": 130
+    }
+  ]
+}
